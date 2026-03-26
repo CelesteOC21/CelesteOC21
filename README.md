@@ -7,7 +7,7 @@ proyectos académicos y profesionales utilizando tecnologías modernas como Reac
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí 
 
 - 💻 Desarrolladora Full Stack
 - 🌐 Experiencia en desarrollo de aplicaciones web modernas
